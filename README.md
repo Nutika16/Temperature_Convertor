@@ -5,6 +5,7 @@ A simple temperature converter web application built using HTML, CSS, and JavaSc
 This project allows users to convert temperatures between Fahrenheit, Celsius, and Kelvin. Users can input a temperature value in one unit, and the application will automatically update the other units accordingly. Additionally, the application provides emoji feedback based on the Celsius temperature entered.
 
 <h3>Features</h3>
+
 1. Conversion between Fahrenheit, Celsius, and Kelvin.
 
 2. Real-time updates as the user inputs temperature values.
