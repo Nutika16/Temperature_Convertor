@@ -6,7 +6,9 @@ This project allows users to convert temperatures between Fahrenheit, Celsius, a
 
 <h3>Features</h3>
 1. Conversion between Fahrenheit, Celsius, and Kelvin.
+
 2. Real-time updates as the user inputs temperature values.
+
 3. Emoji feedback based on the entered Celsius temperature.
    
 <h2>Preview</h2>
