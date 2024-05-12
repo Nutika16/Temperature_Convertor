@@ -14,8 +14,11 @@ This project allows users to convert temperatures between Fahrenheit, Celsius, a
    
 <h2>Preview</h2>
 <h3>How to Use</h3>
+
 1. Enter a temperature value in any of the input fields (Fahrenheit, Celsius, or Kelvin).
+
 2. The other input fields will automatically update with the corresponding temperature values.
+   
 3. The emoji feedback will provide visual cues based on the entered Celsius temperature.
 
 <h3>Installation</h3>h3>
