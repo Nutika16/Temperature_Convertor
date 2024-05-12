@@ -21,7 +21,7 @@ This project allows users to convert temperatures between Fahrenheit, Celsius, a
    
 3. The emoji feedback will provide visual cues based on the entered Celsius temperature.
 
-<h3>Installation</h3>h3>
+<h3>Installation</h3>
 No installation required. Simply open the index.html file in a web browser to use the application.
 
 <h3>Credits</h3>
